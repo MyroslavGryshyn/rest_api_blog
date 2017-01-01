@@ -1,17 +1,17 @@
 # Simple blog made with DjangoRestFramework
 
-- Run server
-1) git clone https://github.com/MyroslavGryshyn/rest_api_blog.git
-2) pip install -r requirements.txt
-3) python manage.py migrate
-4) python manage.py runserver 8088
+Run server
+- git clone https://github.com/MyroslavGryshyn/rest_api_blog.git
+- pip install -r requirements.txt
+- python manage.py migrate
+- python manage.py runserver 8088
 
 All the documentation you can find then on http://127.0.0.1:8088/docs/
 
-- Tests
-1) python manage.py test
+# Tests
+- python manage.py test
 
-Additional information:
+# Additional information:
 
 /blog/posts/
 
